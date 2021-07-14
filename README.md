@@ -3,7 +3,8 @@
 # Abstract
 Spotify Web API is what is commonly known as a RESTful API. The web API is an interface that programs can use to retrieve and manage Spotify data over the internet. The Web API uses the same HTTP protocol that’s used by every internet browser. In fact, you can access the API directly from your own browser. Understanding the different categories in music can help you as a consumer gain a grasp as to what is to come in the next year when it comes to musical entertainment. Over the course of this project, we will provide information regarding the different variables and observations and how they might impact the popularity of the song.
 
-# Contents```
+# Contents
+```
 1 - Introduction
 2 - Type of Project
 3 - Data Description and Exploration
