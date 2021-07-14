@@ -7,24 +7,24 @@ Spotify Web API is what is commonly known as a RESTful API. The web API is an in
 1 - Introduction\
 2 - Type of Project\
 3 - Data Description and Exploration\
-3.1 - Removing variables not useful\
-3.2 - Checking Missing Values\
-3.3 - Understanding better each variable\
-3.3.1 - Histogram of the Danceability Rating\
-3.3.2 - Histogram of the Popularity Rating and Songs\
-3.3.3 - Scatter Plot Between the Duration of a Song and Its Release Date\
-3.3.4 - Boxplot graph containing variables with range from 0 to 1\
-3.3.5 - Histogram providing a better visualization of the primary key of the track
+  3.1 - Removing variables not useful\
+  3.2 - Checking Missing Values\
+  3.3 - Understanding better each variable\
+    3.3.1 - Histogram of the Danceability Rating\
+    3.3.2 - Histogram of the Popularity Rating and Songs\
+    3.3.3 - Scatter Plot Between the Duration of a Song and Its Release Date\
+    3.3.4 - Boxplot graph containing variables with range from 0 to 1\
+    3.3.5 - Histogram providing a better visualization of the primary key of the track
 encoded as integers in between 0 and 11.\
 4 - Correlation\
-4.1 - Correlation between variables\
-4.2 - Top 10 variables most correlated to popularity\
+  4.1 - Correlation between variables\
+  4.2 - Top 10 variables most correlated to popularity\
 5 - The Most Popular Artists\
 6 - Modeling and Analyzing\
-6.1 - Cluster 0\ 
-6.2 - Cluster 1\
-6.3 - Cluster 2\
-6.4 - Cluster 3\
+  6.1 - Cluster 0\ 
+  6.2 - Cluster 1\
+  6.3 - Cluster 2\
+  6.4 - Cluster 3\
 7 - Final Predictions\
 8 - Conclusion
 
