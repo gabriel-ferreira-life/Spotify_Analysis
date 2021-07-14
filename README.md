@@ -25,4 +25,4 @@ encoded as integers in between 0 and 11.
 7 - Final Predictions
 8 - Conclusion
 
-## Project on the above PDF document.
+## The project is in the above PDF document.
