@@ -7,8 +7,10 @@ Spotify Web API is what is commonly known as a RESTful API. The web API is an in
 1 - Introduction
 
 2 - Type of Project
+
 3 - Data Description and Exploration
-3.1 - Removing variables not useful
+
+3.1 - Removing variables not useful\
 3.2 - Checking Missing Values
 3.3 - Understanding better each variable
 3.3.1 - Histogram of the Danceability Rating
